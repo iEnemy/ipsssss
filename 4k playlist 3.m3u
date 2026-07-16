@@ -12,8 +12,10 @@ http://hottest.plus:80/0e9a8c10e6/d55e107aca3c/2104159
 http://mgleil33.xyz:80/0JHHJ36/C46L9RD/1436344
 #EXTINF:-1 group-title="FIFA World Cup 2026",TSN 4K CA
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
-#EXTINF:-1 tvg-id="" tvg-name="VIP - FOX SPORTS 1 4K (EVENTS ONLY)" tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP | 4K ULTRA HD",VIP - FOX SPORTS 1 4K (EVENTS ONLY)
-http://mgleil33.xyz:80/0JHHJ36/C46L9RD/1436346
+#EXTINF:-1 group-title="SPORT 🏆",Матч HD
+http://45.145.32.13:20440/match_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 1 HD
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026",TSN1 CA 04
