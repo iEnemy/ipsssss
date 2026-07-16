@@ -6,6 +6,8 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 http://mgleil33.xyz:80/0JHHJ36/C46L9RD/1436346
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026",TSN1 CA 04
+http://wickediptv.xyz/Randall123/Randall321/53805
 #EXTINF:-1 group-title="FIFA World Cup 2026",FOX 01
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/109548
 #EXTINF:-1 group-title="FIFA World Cup 2026",FOX 02
@@ -28,4 +30,28 @@ http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465858
 #EXTINF:-1 group-title="FIFA World Cup 2026",HD
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465875
+#EXTINF:-1 group-title="FIFA World Cup 2026",Fussball TV 1 4K DE
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465825
+#EXTINF:-1 group-title="FIFA World Cup 2026",Fussball TV 2 4K DE
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465822
+#EXTINF:-1 group-title="FIFA World Cup 2026",Fussball TV 3 4K DE
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465809
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 GAME 01
+http://wickediptv.xyz/Randall123/Randall321/340018
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 GAME 02
+http://wickediptv.xyz/Randall123/Randall321/340019
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 GAME 03
+http://wickediptv.xyz/Randall123/Randall321/340017
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 GAME 04
+http://wickediptv.xyz/Randall123/Randall321/340016
+#EXTINF:-1 group-title="FIFA World Cup 2026",NOW Sports 616 4K
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
+#EXTINF:0 tvg-rec="0",Fox Sports HD AR
+http://j14erxmo.virelloso.top/iptv/FFNN3S9DFEX5SCZMRNY2SH3P/19136/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports HD MX
+http://j14erxmo.virelloso.top/iptv/FFNN3S9DFEX5SCZMRNY2SH3P/19138/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 506 HD AU
+http://j14erxmo.virelloso.top/iptv/FFNN3S9DFEX5SCZMRNY2SH3P/19139/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports Racing US
+http://j14erxmo.virelloso.top/iptv/FFNN3S9DFEX5SCZMRNY2SH3P/19143/index.m3u8
 
